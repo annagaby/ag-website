@@ -3,25 +3,23 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Master in Environmental Science and Management
+    institution: Bren School, UC Santa Barbara
+    year: 2020
+  - course: BS in Environmental Studies 
+    institution: UC Santa Barbara
+    year: 2018
+email: "annagcalle@gmail.com"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Environmental Science
+- R programming
+- Data science and visualization
+- Aerial arts
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Charles Darwin Foundation
+  url: https://www.darwinfoundation.org/en/
+role: Research Assistant
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,11 +40,9 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Anna Gabriela Calle
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi everyone! My name is Anna. I'm a Research Assistant for the Galápagos Verde 2050 Project. I get to work restoring degraded ecosystems in 7 different islands of the Galapagos. I spend most of my time studying/taking care of endangered plant species, writing R code, and going on planting/monitoring expeditions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
