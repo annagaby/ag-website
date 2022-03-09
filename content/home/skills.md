@@ -27,7 +27,7 @@ feature:
   name: Ecological Restoration
 - icon: globe-americas
   icon_pack: fas
-  name: Sustainability
+  name: Conservation Planning
 - icon: chart-area
   icon_pack: fas
   name: Data visualization

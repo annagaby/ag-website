@@ -34,6 +34,6 @@ superuser: true
 title: Anna Gabriela Calle
 ---
 
-Hi everyone! My name is Anna. I'm a Research Assistant for the Galápagos Verde 2050 Project. I get to work restoring degraded ecosystems in 7 different islands of the Galapagos. I spend most of my time studying/taking care of endangered plant species, writing R code, and going on planting/monitoring expeditions.
+Hi everyone! My name is Anna. I am a Research Assistant for the [Galapagos Verde 2050 Project](http://www.galapagosverde2050.com/). I work restoring degraded ecosystems in 7 different islands of the Galapagos. I spend most of my time studying endangered plant species, collecting field data, and conducting germination experiments.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/6-11-21_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
