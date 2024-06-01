@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
   courses:
   - course: Master in Environmental Science and Management
@@ -19,7 +18,7 @@ interests:
 organizations:
 - name: Charles Darwin Foundation
   url: https://www.darwinfoundation.org/en/
-role: Research Assistant
+role: Junior Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -34,6 +33,6 @@ superuser: true
 title: Anna Gabriela Calle
 ---
 
-Hi everyone! My name is Anna. I am a Research Assistant for the [Galapagos Verde 2050 Project](http://www.galapagosverde2050.com/). I work restoring degraded ecosystems in 7 different islands of the Galapagos. I spend most of my time studying endangered plant species, collecting field data, and conducting germination experiments.
+Hi everyone! My name is Anna. I am an environmental scientist and conservationist dedicated to preserving and restoring delicate ecosystems. I currently work as a Junior Researcher for the [Galapagos Verde 2050 Program](http://www.galapagosverde2050.com/), conducting applied research on ecological restoration across seven islands of the Galapagos. You can often find me in the field planting or monitoring native and endemic seedlings; in the office writing or analyzing data; or in the laboratory conducting germination trials.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/6-11-21_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
