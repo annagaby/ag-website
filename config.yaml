@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Anna Calle # Website name
 baseurl: 'https://annagaby.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2024 Anna Calle'
 
 ############################
 ## LANGUAGE
