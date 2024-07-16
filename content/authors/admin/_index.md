@@ -29,6 +29,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/annagabrielacalle/
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-0617-8734
 superuser: true
 title: Anna Gabriela Calle
 ---
