@@ -4,9 +4,9 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Anna Calle # Website name
+title: Anna Calle-Loor # Website name
 baseurl: 'https://annagaby.netlify.app/' # Website URL
-copyright: '© 2024 Anna Calle'
+copyright: '© 2024 Anna Calle-Loor'
 
 ############################
 ## LANGUAGE
