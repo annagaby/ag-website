@@ -14,7 +14,7 @@ interests:
 - Environmental Science
 - R programming
 - Data science and visualization
-- Aerial arts
+- Science communication
 organizations:
 - name: Charles Darwin Foundation
   url: https://www.darwinfoundation.org/en/
@@ -38,4 +38,4 @@ title: Anna Calle-Loor
 
 Hi everyone! My name is Anna. I am an environmental scientist and conservationist dedicated to preserving and restoring delicate ecosystems. I currently work as a Junior Researcher for the [Galapagos Verde 2050 Program](http://www.galapagosverde2050.com/), conducting applied research on ecological restoration across seven islands of the Galapagos. You can often find me at the office writing or analyzing data, in the laboratory conducting germination trials, or in the field planting and monitoring native and endemic seedlings.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Calle_Anna_EnglishResume_05-07-24.pdf" "newtab" >}}résumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Calle_Anna_Resume.pdf" "newtab" >}}résumé{{< /staticref >}}.

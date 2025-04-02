@@ -4,7 +4,7 @@
 widget: blank
 
 # Active?
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -19,4 +19,4 @@ design:
   columns: ''
 ---
 
-{{< gallery album="visualizations" >}}
+{{< gallery album="viz" >}}
