@@ -1,0 +1,116 @@
+<head>
+  <script src="https://kit.fontawesome.com/dad74a339f.js" crossorigin="anonymous"></script>
+  <style>
+
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap');
+
+body{
+  font-family: 'IBM Plex Mono', monospace;
+  background-color: #202125;
+  color: #BCBCBF;
+  text-align: center;
+  padding: 20px;
+}
+
+a:link{
+  color:#8BA1CB;
+}
+
+a:visited{
+  color:#D190C9;
+}
+
+iframe{
+
+}
+
+table {
+  border-collapse: collapse;
+  margin: 5%;
+  width: 90%;
+}
+
+td{
+  text-overflow: ellipsis;
+  padding: 10px;
+}
+
+th{
+background-color: #BCBCBF;
+  color: #202125;
+  padding: 10px;
+}
+
+table, th, td {
+  border: 1px solid #424242;
+}
+
+</style>
+  </head>
+  <header>
+    <h1>Priority Areas for Marine Conservation in Brazil</h1>
+    </header>
+    <body>
+
+<section id=map>
+<iframe
+    marginheight=0
+    marginwidth=0
+    scrolling=no
+    height=85%
+    width=90%
+    height=85vh
+    width=90vw
+    align= "middle"
+    src="qgis2web/index.html">
+</iframe>
+</section>
+
+<section id=table>
+<table>
+  <tr>
+    <th width=20%>Layer</th>
+    <th width=20%>Source</th>
+    <th width=50%>Description</th>
+  </tr>
+  <tr>
+    <td>EEZ</td>
+    <td>Marineregions.org</td>
+    <td>Brazil's Exclusive Economic Zone (EEZ)</td>
+  </tr>
+  <tr>
+    <td>MPAs</td>
+    <td>protectedplanet.net</td>
+    <td>Brazil's Marine Protected Areas (MPAs)</td>
+  </tr>
+  <tr>
+    <td>Marine Ecosystems</td>
+    <td>WWF (Not publicly available)</td>
+    <td>Rhodolith beds, rocky cliffs, sponge banks, shallow reefs, mesophotic reefs, and deep reefs</td>
+  </tr>
+  <tr>
+    <td>Especial Environments</td>
+    <td>WWF (Not publicly available)</td>
+    <td>Lagoa dos Patos, Banco de Abrolhos, Cadeia Vitória Trindade, EBSA Banks Chain of Northern Brazil and Fernando de Noronha, and EBSA Borda da Plataforma Nordeste</td>
+  </tr>
+  <tr>
+    <td>Important Wetlands</td>
+    <td>WWF (Not publicly available)</td>
+    <td>Wetlands included in the RAMSAR Convention</td>
+  </tr>
+  <tr>
+    <td>Artificial Reefs</td>
+    <td>WWF (Not publicly available)</td>
+    <td>Artificial reefs</td>
+  </tr>
+  <tr>
+    <td>Marine Habitats</td>
+    <td>WWF (Not publicly available)</td>
+    <td>Undersea mountain ranges, hills, and sandbanks</td>
+  </tr>
+</table>
+</section>
+</body>
+<footer>
+  <p> Created by Anna Calle &ltannagcalle@bren.ucsb.edu&gt with QGIS version 3.8.2 and qgis2web plugin. Code on <a href ="https://github.com/annagaby/ESM267-web", target="_blank"><i class="fab fa-github"></i> GitHub.</a>
+</footer>
