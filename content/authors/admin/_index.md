@@ -12,9 +12,9 @@ email: "annagcalle@gmail.com"
 highlight_name: false
 interests:
 - Environmental Science
-- R programming
-- Data science and visualization
-- Science communication
+- Conservation Planning
+- Data Science and Visualization
+- Science Communication
 organizations:
 - name: Charles Darwin Foundation
   url: https://www.darwinfoundation.org/en/
