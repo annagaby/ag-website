@@ -5,7 +5,7 @@ education:
   - course: Master in Environmental Science and Management
     institution: Bren School, University of California, Santa Barbara
     year: 2020
-  - course: BS in Environmental Studies 
+  - course: BS in Environmental Studies
     institution: University of California, Santa Barbara
     year: 2018
 email: "annagcalle@gmail.com"
@@ -37,5 +37,7 @@ title: Anna Calle-Loor
 ---
 
 Hi everyone! My name is Anna. I am an environmental scientist and conservationist dedicated to preserving and restoring delicate ecosystems. I currently work as a Junior Researcher for the [Galapagos Verde 2050 Program](http://www.galapagosverde2050.com/), conducting applied research on ecological restoration across seven islands of the Galapagos. You can often find me at the office writing or analyzing data, in the laboratory conducting germination trials, or in the field planting and monitoring native and endemic seedlings.
+
+In my free time, I enjoy contributing to [iNaturalist](https://www.inaturalist.org/people/annagaby95), where I have submitted 2,000+ species identifications.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Calle_Anna_Resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
