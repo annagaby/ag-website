@@ -1,0 +1,49 @@
+{{ define "main" }}
+{{ .Content }}
+
+<div class="viz-grid">
+  {{ range .Pages }}
+    {{ partial "viz-card.html" . }}
+  {{ end }}
+</div>
+
+<style>
+.viz-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.viz-card {
+  width: 300px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 2px 2px 10px rgba(0,0,0,0.05);
+  transition: box-shadow 0.2s ease;
+  text-align: left;
+}
+
+.viz-card:hover {
+  box-shadow: 2px 4px 12px rgba(0,0,0,0.15);
+}
+
+.viz-card img {
+  width: 100%;
+  height: auto;
+}
+
+.viz-card h3 {
+  margin: 0.5rem 1rem 0;
+  font-size: 1.1rem;
+}
+
+.viz-card p {
+  margin: 0.25rem 1rem 1rem;
+  font-size: 0.95rem;
+  color: #555;
+}
+</style>
+{{ end }}
