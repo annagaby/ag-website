@@ -2,7 +2,7 @@
 {{ .Content }}
 
 <div class="viz-grid">
-  {{ range .Pages }}
+  {{ range sort .Pages "Weight" "asc" }}
     {{ partial "viz-card.html" . }}
   {{ end }}
 </div>

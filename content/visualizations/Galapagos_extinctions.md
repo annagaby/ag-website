@@ -2,7 +2,8 @@
 title: "Extinct Galapagos Species"
 description: "Tableu Public"
 thumbnail: "/media/extinction-thumb.png"
-date: 2025-04-23
+date: 2024-04-23
+weight: 99
 ---
 
 <div class='tableauPlaceholder' id='viz1745424333538' style='position: relative'><noscript><a href='#'><img alt='Extinct Galapagos Species: Year of Description vs. Year Last Seen ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ga&#47;GalapagosExtinctSpeciesYearofDescriptionvs_YearLastSeen&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GalapagosExtinctSpeciesYearofDescriptionvs_YearLastSeen&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ga&#47;GalapagosExtinctSpeciesYearofDescriptionvs_YearLastSeen&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
