@@ -1,6 +1,6 @@
 ---
 title: "Extinct Galapagos Species"
-description: "Tableu Public"
+description: "Tableau Public"
 thumbnail: "/media/extinction-thumb.png"
 date: 2024-04-23
 weight: 99
