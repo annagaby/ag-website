@@ -2,7 +2,8 @@
 title: "iNaturalist"
 ---
 
-My latest biodiversity observations, documented on iNaturalist.
+In my free time, I enjoy contributing to iNaturalist, where I have helped with 3,000+ species identifications. Below are some of my latest observations.
+
 
 <!-- iNaturalist Widget -->
 <iframe
