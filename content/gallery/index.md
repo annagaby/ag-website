@@ -1,5 +1,5 @@
 ---
-title: "iNaturalist Observations"
+title: "iNaturalist"
 ---
 
 My latest biodiversity observations, documented on iNaturalist.
