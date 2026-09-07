@@ -13,6 +13,9 @@ main:
   - name: Scientific Blogs
     url: '/blogs/'
     weight: 70
+  - name: Gallery
+    url: '/gallery/'
+    weight: 75
   - name: Contact
     url: '#contact'
     weight: 80

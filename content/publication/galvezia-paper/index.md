@@ -32,7 +32,7 @@ summary:
 title: "Advances in the recovery of Galvezia leucantha subsp. leucantha (Plantaginaceae): restoring a critically endangered species on northern Isabela Island, Galápagos"
 url_code: ""
 url_dataset: ""
-url_pdf: "https://www.sciencedirect.com/org/science/article/pii/S1314694726000473"
+url_pdf: "https://natureconservation.pensoft.net/article/177895/"
 url_poster: ""
 url_project: ""
 url_slides: ""
