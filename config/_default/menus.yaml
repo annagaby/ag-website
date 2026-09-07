@@ -10,7 +10,7 @@ main:
   - name: Visualizations
     url: '/visualizations/'
     weight: 60
-  - name: Blogs
+  - name: Scientific Blogs
     url: '/blogs/'
     weight: 70
   - name: Contact

@@ -26,8 +26,7 @@ publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 slides: false
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 title: "Adoption of Sustainable Agriculture Practices through Participatory Research: A Case Study on Galapagos Islands Farmers Using Water-Saving Technologies"
 url_code: ""
