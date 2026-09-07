@@ -1,5 +1,5 @@
 ---
-abstract: 
+abstract: "This Conservation News article documents the rediscovery of a population of the Critically Endangered Galápagos endemic shrub Scalesia retroflexa at El Garrapatero on Santa Cruz Island, nearly three decades after it was last recorded at the site. The rediscovery provides an important opportunity for renewed monitoring and conservation of this highly threatened species."
 author_notes:
 -
 -
